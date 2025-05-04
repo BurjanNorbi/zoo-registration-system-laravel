@@ -38,7 +38,26 @@ Ez a projekt egy egyszerű állatkerti nyilvántartó rendszer, amely a Laravel 
 
 ## ⚙️ Telepítés
 
-Projekt klónozása:
+### ✅ Előfeltételek
+
+1. PHP (>= 8.1 ajánlott)
+   Laravelhez szükséges minimum PHP 8.1.
+
+    Ellenőrizhető: php -v
+
+2. Composer
+   PHP csomagkezelő, Laravel projektfüggőségek kezeléséhez.
+
+    Telepítés: https://getcomposer.org/download/
+
+    Ellenőrizhető: composer --version
+
+3. Node.js és NPM
+   Frontend eszközök (Vite, Tailwind, stb.) futtatásához szükséges.
+
+    Ajánlott verzió: Node 18.x vagy újabb
+
+    Ellenőrizhető: node -v és npm -v
 
 ```bash
 git clone https://github.com/BurjanNorbi/zoo-registration-system-laravel.git
