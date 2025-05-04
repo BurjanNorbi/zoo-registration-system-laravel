@@ -55,7 +55,31 @@ Email: q@q.hu
 Jelszó: q
 
 Gondozó:
-Email: user@example.com
-Jelszó: password
+Email: w@w.hu
+Jelszó: w
 
-🖼️ Képernyőképek
+## 🖼️ Képernyőképek
+
+### Főoldal admin szemszögből
+
+![main page admin](/screenshots/main_page_admin.png)
+
+### Főoldal gondozó szemszögből
+
+![main page user](/screenshots/main_page_user.png)
+
+### Összes kifutó admin szemszögből
+
+![enclosures page admin](/screenshots/enclosures_page_admin.png)
+
+### Összes kifutó gondozó szemszögből
+
+![enclosures page user](/screenshots/enclosures_page_user.png)
+
+### Egy kifutó admin szemszögből
+
+![enclosure page admin](/screenshots/enclosure_page_admin.png)
+
+### Egy kifutó gondozó szemszögből
+
+![enclosure page user](/screenshots/enclosure_page_user.png)
